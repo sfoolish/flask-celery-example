@@ -23,3 +23,13 @@ Quick Setup
 6. Go to `http://localhost:5000/` and enjoy this application!
 
 For details on how this all works, see my article [Using Celery with Flask](http://blog.miguelgrinberg.com/post/using-celery-with-flask).
+
+
+Quick Run with Docker Compose
+-----------------------------
+
+1. Install docker and docker compose
+2. Clone this repository.
+3. Run `docker-compose build` build images
+4. Run `docker-compose up` start app
+5. Go to `http://localhost:5555/` and enjoy this application!
